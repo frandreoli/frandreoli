@@ -1,4 +1,4 @@
-table>
+<table>
   <tr>
     <td style="width: 50%; vertical-align: top; padding-right: 10px;">
 
