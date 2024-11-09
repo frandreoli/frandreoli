@@ -2,7 +2,7 @@
 
   <div>
 
-  - <details>
+   <details>
       <summary>Research projects</summary>
       <ul>
         <li><a href="https://github.com/username/project1">Project 1</a></li>
