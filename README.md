@@ -34,7 +34,7 @@
 
     <td valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
+        <img src="test" alt="Top Languages" />
       </a>
     </td>
   </tr>
