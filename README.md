@@ -1,5 +1,5 @@
  
-  <div style="display: inline-block; width: 60%; vertical-align: top;">
+  <div style="display: inline-block; width: 10%; vertical-align: top;">
  
   - <details>
       <summary>Physics Projects AAAAADFBWSA S HFOD PSK DB fdbs jbfd jsn djk KA NDS KBDJSK GDHSJ KABDI JNIHF BDNSHVHF DMJBHV DUHVB JISK BHDBKSJ BHDVBJSKABHDBSNJKS BKJD </summary>
