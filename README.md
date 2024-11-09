@@ -1,8 +1,13 @@
-
+<div align="center">
+  <div style="display: flex;">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=compact" /></a> 
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=compact" /></a> 
+  </div>
+</div>
 
   | Text1 <br/> Text2 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages)](https://github.com/anuraghazra/github-readme-stats) |
   
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=compact" /></a> 
+
 
 
   
