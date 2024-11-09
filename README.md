@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="flex: 1; padding-right: 20px;">
 
 - <details>
@@ -30,4 +30,3 @@
 
 </div> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages)](https://github.com/anuraghazra/github-readme-stats)
