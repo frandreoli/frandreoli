@@ -24,7 +24,7 @@
   </details>
 
  <details>
-    <summary>Some interesting stuff</summary>
+    <summary>Text analysis</summary>
     <ul>
       <li><a href="https://github.com/username/random1">Random Project 1</a></li>
       <li><a href="https://github.com/username/random2">Random Project 2</a></li>
