@@ -11,6 +11,7 @@
 <details>
   <summary>Few research projects</summary>
   <ul>
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
     <li> <img align="left" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
   </ul>
 </details>
@@ -18,18 +19,14 @@
 <details>
   <summary>Some interesting stuff</summary>
   <ul>
-    <li><span style="background-color: #306998; color: white; padding: 2px 6px; border-radius: 5px; font-weight: bold;">Python</span> <a href="https://github.com/username/random1">Random Project 1</a></li>
-    <li><span style="background-color: #a270ba; color: white; padding: 2px 6px; border-radius: 5px; font-weight: bold;">Julia</span> <a href="https://github.com/username/random2">Random Project 2</a></li>
-    <li><span style="background-color: #f0db4f; color: black; padding: 2px 6px; border-radius: 5px; font-weight: bold;">JavaScript</span> <a href="https://github.com/username/random3">Random Project 3</a></li>
+    <li> <img align="left" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Text analysis</summary>
   <ul>
-    <li><span style="background-color: #306998; color: white; padding: 2px 6px; border-radius: 5px; font-weight: bold;">Python</span> <a href="https://github.com/username/random1">Random Project 1</a></li>
-    <li><span style="background-color: #f0db4f; color: black; padding: 2px 6px; border-radius: 5px; font-weight: bold;">JavaScript</span> <a href="https://github.com/username/random2">Random Project 2</a></li>
-    <li><span style="background-color: #555555; color: white; padding: 2px 6px; border-radius: 5px; font-weight: bold;">C</span> <a href="https://github.com/username/random3">Random Project 3</a></li>
+    <li> <img align="left" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
   </ul>
 </details>
 
