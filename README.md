@@ -1,4 +1,4 @@
-<div style="width: 49%; float: left; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div style="width: 49%; display: inline-block; vertical-align: top; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
   <!-- Scrollable content on the left -->
   <p>This is some content that will be scrollable. Add as much text or elements as you like here.</p>
   <p>Keep adding more content to see the scrolling effect. You can also add images, links, or other Markdown content here.</p>
@@ -7,7 +7,7 @@
   <p>More content...</p>
 </div>
 
-<div style="width: 49%; float: left; padding: 10px;">
+<div style="width: 49%; display: inline-block; vertical-align: top; padding: 10px;">
   <!-- Image on the right -->
   <img src="https://via.placeholder.com/300" alt="Sample Image" style="max-width: 100%; height: auto;">
 </div>
