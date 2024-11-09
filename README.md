@@ -1,5 +1,5 @@
  
-  <div class="content">
+  <div style="display: inline-block; width: 60%; vertical-align: top;">
  
   - <details>
       <summary>Physics Projects</summary>
