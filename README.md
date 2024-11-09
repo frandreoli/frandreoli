@@ -2,7 +2,7 @@
   <div style="display: inline-block; width: 60%; vertical-align: top;">
  
   - <details>
-      <summary>Physics Projects</summary>
+      <summary>Physics Projects AAAAADFBWSA S HFOD PSK DB fdbs jbfd jsn djk KA NDS KBDJSK GDHSJ KABDI JNIHF BDNSHVHF DMJBHV DUHVB JISK BHDBKSJ BHDVBJSKABHDBSNJKS BKJD </summary>
       <ul>
         <li><a href="https://github.com/username/project1">Project 1</a></li>
         <li><a href="https://github.com/username/project2">Project 2</a></li>
