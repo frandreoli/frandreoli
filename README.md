@@ -11,7 +11,7 @@
       </ul>
     </details>
 
-  - <details>
+   <details>
       <summary>Interesting problems</summary>
       <ul>
         <li><a href="https://github.com/username/random1">Random Project 1</a></li>
