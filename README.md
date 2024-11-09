@@ -32,7 +32,6 @@
 
     </td>
 
-    <!-- Right side with the badge -->
     <td valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
