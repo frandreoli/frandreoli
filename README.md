@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary>Some interesting stuff</summary>
+  <summary><b>Some interesting stuff</b></summary>
   <ul>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_dephasing">atoms_optical_dephasing</a></li>    
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary>Text analysis</summary>
+  <summary><b>Text analysis</b></summary>
   <ul>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
   </ul>
