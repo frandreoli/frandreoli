@@ -4,7 +4,7 @@
   <div style="flex: 1; padding-right: 20px;">
 
   - <details>
-      <summary>Physics Projects</summary>
+      <summary>Research projects</summary>
       <ul>
         <li><a href="https://github.com/username/project1">Project 1</a></li>
         <li><a href="https://github.com/username/project2">Project 2</a></li>
@@ -13,7 +13,7 @@
     </details>
 
   - <details>
-      <summary>Random Projects</summary>
+      <summary>Interesting stuff</summary>
       <ul>
         <li><a href="https://github.com/username/random1">Random Project 1</a></li>
         <li><a href="https://github.com/username/random2">Random Project 2</a></li>
@@ -22,7 +22,7 @@
     </details>
 
   - <details>
-      <summary>Text Projects</summary>
+      <summary>Text manipulation</summary>
       <ul>
         <li><a href="https://github.com/username/text1">Text Project 1</a></li>
         <li><a href="https://github.com/username/text2">Text Project 2</a></li>
