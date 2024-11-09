@@ -20,13 +20,6 @@
       </ul>
     </details>
 
-    - <details>
-      <summary>Text analysis</summary>
-      <ul>
-        <li><a href="https://github.com/username/text1">Text Project 1</a></li>
-        <li><a href="https://github.com/username/text2">Text Project 2</a></li>
-        <li><a href="https://github.com/username/text3">Text Project 3</a></li>
-      </ul>
-    </details>
+ 
 
   </div>
