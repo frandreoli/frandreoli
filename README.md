@@ -1,7 +1,6 @@
  
-  <div style="display: flex;">
+  <div style="display: flex; max-width: 200px; max-height: 200px; overflow: auto;">
  
-
   - <details>
       <summary>Physics Projects</summary>
       <ul>
