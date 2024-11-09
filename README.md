@@ -1,5 +1,5 @@
  
-  <div style="max-width: 200px;">
+  <div class="content">
  
   - <details>
       <summary>Physics Projects</summary>
