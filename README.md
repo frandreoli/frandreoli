@@ -12,10 +12,10 @@
   <summary>Few research projects</summary>
   <ul>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a> <i>Steady-state, optical response of large-scale systems of quantum emitters. Coded in Julia, optimized for multi-threading.</i> </li>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_dephasing">atoms_optical_dephasing</a> </li>    
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/optimization_atoms_metalens">optimization_atoms_metalens</a> </li>    
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> optimization_atoms_adjoint (private) </li>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> optimization_atoms_QM (private) </li>
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_dephasing">atoms_optical_dephasing</a> <i>Dephasing dynamics of an atomic spin-wave, due to inter-atomic, optical interactions (first-order cumulant expansion).</i> </li>    
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/optimization_atoms_metalens">optimization_atoms_metalens</a> <i>Toolbox of global algorithms to optimize the efficiency of an atomic metalens.</i> </li>    
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> optimization_atoms_adjoint (private) <i> </i> </li>
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> optimization_atoms_QM (private) <i> </i> </li>
   </ul>
 </details>
 
