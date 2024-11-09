@@ -20,7 +20,7 @@
       </ul>
     </details>
 
-  - <details>
+    <details>
       <summary>Text analysis</summary>
       <ul>
         <li><a href="https://github.com/username/text1">Text Project 1</a></li>
