@@ -1,10 +1,7 @@
-
-
-
-<div style="width: 100%;">
+<div style="display: flex; align-items: flex-start;">
 
   <!-- Left side with collapsible lists -->
-  <div style="width: 60%;">
+  <div style="flex: 1; padding-right: 20px;">
 
   - <details>
       <summary>Physics Projects</summary>
@@ -36,7 +33,7 @@
   </div>
 
   <!-- Right side with the badge -->
-  <div style="width: 35%; ">
+  <div style="flex: 2; padding-left: 20px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
     </a>
