@@ -29,9 +29,10 @@
 </details>
 
 <details>
-  <summary><b>Text analysis</b></summary>
+  <summary><b>Text manipulation</b></summary>
   <ul>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
+    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> <a href="https://github.com/frandreoli/biblio_convert_bib_to_md">biblio_convert_bib_to_md</a>. </b>A Python script to import some entries from a BibTex (.bib) bibliography and display it in a convenient Markdown (.md) format.</li>
+    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> text_lemma_count. </b> Some Python scripts to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Jupyter notebook is provided, ready to use.</li>
   </ul>
 </details>
 
