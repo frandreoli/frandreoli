@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: flex;">
-      <div>
+ 
 
   - <details>
       <summary>Physics Projects</summary>
@@ -29,7 +29,7 @@
       </ul>
     </details>
 
-  </div> 
+ 
       <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=compact" /></a> 
   </div>
 </div>
