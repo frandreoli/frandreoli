@@ -23,9 +23,7 @@
 <details>
   <summary><b>Some interesting stuff</b></summary>
   <ul>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_dephasing">atoms_optical_dephasing</a></li>    
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/optimization_atoms_metalens">optimization_atoms_metalens</a></li>    
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/random_packing_hard_spheres">random_packing_hard_spheres</a>. </b>A grid-based algorithm to uniformly sample the positions of hard (non-overlapping) spheres inside a cuboid.</li>
   </ul>
 </details>
 
