@@ -18,16 +18,19 @@
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" />  <b> optimization_atoms_adjoint. </b> 
       Optimization of the collective, linear optical response of an ensemble of quantum emitters, through the inverse-design of their spatial positions (adjoint algorithms). </li>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> optimization_atoms_QM. </b>       Optimization of the efficiency of an atomic-based quantum memory, via the inverse-design of the atomic positions (particle-swarm algorithm).</li>
-   <br/>
+   
   </ul>
+  <br/>
 </details>
 
 <details>
   <summary><b>Some interesting stuff</b></summary>
+ <br/>
   <ul>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/random_packing_hard_spheres">random_packing_hard_spheres</a>. </b>A grid-based algorithm to uniformly sample the positions of hard (non-overlapping) spheres inside a cuboid.</li>
     <li> <img align="center" src="https://img.shields.io/badge/C-gray" /> <b> random_graph_percolation. </b> A script to compute the super-cluster phase transition in a random graph with all-to-all connections.</li>
   </ul>
+ <br/>
 </details>
 
 <details>
