@@ -1,7 +1,13 @@
-<div style="display: flex; align-items: flex-start;">
+<!-- Main container with badge floated to the right -->
+<div>
+
+  <!-- Right side with the badge floated -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="float: right; margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
+  </a>
 
   <!-- Left side with collapsible lists -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div>
 
   - <details>
       <summary>Physics Projects</summary>
@@ -30,13 +36,6 @@
       </ul>
     </details>
 
-  </div>
-
-  <!-- Right side with the badge -->
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
-    </a>
   </div>
 
 </div>
