@@ -5,11 +5,16 @@
 
 <br/>
 
+<style>
+  details summary {
+    font-weight: bold;
+  }
+</style>
 
 <div>
 
 <details>
-  <summary><b>Few research projects<\b></summary>
+  <summary>Few research projects</summary>
   <ul>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a>. </b>Steady-state, optical response of large-scale systems of quantum emitters. Coded in Julia, optimized for multi-threading. </li>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/atoms_optical_dephasing">atoms_optical_dephasing</a>. </b>Dephasing dynamics of an atomic spin-wave, due to inter-atomic, optical interactions (using a first-order cumulant expansion).</i> </li>    
