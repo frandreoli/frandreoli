@@ -1,10 +1,13 @@
+
+
+
 <div style="width: 100%; display: inline-block;">
 
   <!-- Left side with collapsible lists -->
   <div style="width: 60%; display: inline-block; vertical-align: top;">
 
   - <details>
-      <summary>Physics Projects</summary>
+      <summary>Physics Projects AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</summary>
       <ul>
         <li><a href="https://github.com/username/project1">Project 1</a></li>
         <li><a href="https://github.com/username/project2">Project 2</a></li>
