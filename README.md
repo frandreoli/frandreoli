@@ -5,7 +5,7 @@
   <div>
 
    <details>
-      <summary>Research projects</summary>
+      <summary>Few research projects</summary>
       <ul>
         <li><a href="https://github.com/username/project1">Project 1</a></li>
         <li><a href="https://github.com/username/project2">Project 2</a></li>
@@ -14,7 +14,7 @@
     </details>
 
    <details>
-      <summary>Interesting stuff</summary>
+      <summary>Some interesting stuff</summary>
       <ul>
         <li><a href="https://github.com/username/random1">Random Project 1</a></li>
         <li><a href="https://github.com/username/random2">Random Project 2</a></li>
