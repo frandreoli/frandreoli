@@ -4,7 +4,7 @@
 <div style="width: 100%;">
 
   <!-- Left side with collapsible lists -->
-  <div style="width: 60%; display: inline-block; vertical-align: top;">
+  <div style="width: 60%;">
 
   - <details>
       <summary>Physics Projects</summary>
@@ -36,7 +36,7 @@
   </div>
 
   <!-- Right side with the badge -->
-  <div style="width: 35%; display: inline-block; vertical-align: top;">
+  <div style="width: 35%; ">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
     </a>
