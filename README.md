@@ -12,7 +12,7 @@
     </details>
 
    <details>
-      <summary>Interesting problems</summary>
+      <summary>Interesting stuff</summary>
       <ul>
         <li><a href="https://github.com/username/random1">Random Project 1</a></li>
         <li><a href="https://github.com/username/random2">Random Project 2</a></li>
@@ -20,13 +20,6 @@
       </ul>
     </details>
 
-    <details>
-      <summary>Interesting problems</summary>
-      <ul>
-        <li><a href="https://github.com/username/random1">Random Project 1</a></li>
-        <li><a href="https://github.com/username/random2">Random Project 2</a></li>
-        <li><a href="https://github.com/username/random3">Random Project 3</a></li>
-      </ul>
-    </details>
+ 
 
   </div>
