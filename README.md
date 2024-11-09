@@ -1,26 +1,16 @@
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
+<div style="display: inline-block; width: 49%; vertical-align: top; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+  <!-- Scrollable content on the left -->
+  <p>This is some content that will be scrollable. Add as much text or elements as you like here.</p>
+  <p>Keep adding more content to see the scrolling effect. You can also add images, links, or other Markdown content here.</p>
+  <p>Feel free to experiment with this scrollable container.</p>
+  <p>Scroll to see more!</p>
+  <p>More content...</p>
+</div>
 
-      <!-- Scrollable element on the left -->
-      <div style="height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-        <p>This is some content that will be scrollable. Add as much text or elements as you like here.</p>
-        <p>Keep adding more content to see the scrolling effect. You can also add images, links, or other Markdown content here.</p>
-        <p>Feel free to experiment with this scrollable container.</p>
-        <p>Scroll to see more!</p>
-        <p>More content...</p>
-      </div>
-
-    </td>
-    <td style="width: 50%; vertical-align: top; padding-left: 10px;">
-
-      <!-- Image on the right -->
-      <img src="https://via.placeholder.com/300" alt="Sample Image" style="max-width: 100%; height: auto;">
-
-    </td>
-  </tr>
-</table>
-
+<div style="display: inline-block; width: 49%; vertical-align: top; padding: 10px;">
+  <!-- Image on the right -->
+  <img src="https://via.placeholder.com/300" alt="Sample Image" style="max-width: 100%; height: auto;">
+</div>
 
 
 
