@@ -5,48 +5,13 @@
 
 <br/>
 
-<div>
-
- <details>
-    <summary>Few research projects</summary>
-    <ul>
-      <li><a href="https://github.com/username/project1">Project 1</a></li>
-      <li><a href="https://github.com/username/project2">Project 2</a></li>
-      <li><a href="https://github.com/username/project3">Project 3</a></li>
-    </ul>
-  </details>
-
- <details>
-    <summary>Some interesting stuff</summary>
-    <ul>
-      <li><a href="https://github.com/username/random1">Random Project 1</a></li>
-      <li><a href="https://github.com/username/random2">Random Project 2</a></li>
-      <li><a href="https://github.com/username/random3">Random Project 3</a></li>
-    </ul>
-  </details>
-
- <details>
-    <summary>Text analysis</summary>
-    <ul>
-      <li><a href="https://github.com/username/random1">Random Project 1</a></li>
-      <li><a href="https://github.com/username/random2">Random Project 2</a></li>
-      <li><a href="https://github.com/username/random3">Random Project 3</a></li>
-    </ul>
-  </details>
-
-</div>
-
-
-
 
 <div>
 
 <details>
   <summary>Few research projects</summary>
   <ul>
-    <li> <img align="left" src="https://img.shields.io/badge/Julia-purple" /> Project 1</a></li>
-    <li><span style="background-color: #306998; color: white; padding: 2px 6px; border-radius: 5px; font-weight: bold;">Python</span> <a href="https://github.com/username/project2">Project 2</a></li>
-    <li><span style="background-color: #555555; color: white; padding: 2px 6px; border-radius: 5px; font-weight: bold;">C</span> <a href="https://github.com/username/project3">Project 3</a></li>
+    <li> <img align="left" src="https://img.shields.io/badge/Julia-purple" /> <a href="https://github.com/frandreoli/atoms_optical_response">atoms_optical_response</a></li>
   </ul>
 </details>
 
