@@ -1,8 +1,7 @@
-<!-- Main container with a table layout -->
 <table>
   <tr>
     <!-- Left side with collapsible lists -->
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td valign="top" style="padding-right: 20px;">
 
       - <details>
           <summary>Physics Projects</summary>
@@ -34,7 +33,7 @@
     </td>
 
     <!-- Right side with the badge -->
-    <td style="vertical-align: top;">
+    <td valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&layout=pie&title=Languages" alt="Top Languages" />
       </a>
