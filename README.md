@@ -11,7 +11,7 @@
     </details>
 
   - <details>
-      <summary>Random ProjectsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</summary>
+      <summary>Random Projects</summary>
       <ul>
         <li><a href="https://github.com/username/random1">Random Project 1</a></li>
         <li><a href="https://github.com/username/random2">Random Project 2</a></li>
