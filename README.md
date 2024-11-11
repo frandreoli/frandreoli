@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&hide_border=true&layout=compact" /></a> |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frandreoli&repo=atoms_optical_response&hide_border=true" alt="Anurag's github stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&hide_border=true&layout=chart" /></a> |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frandreoli&repo=atoms_optical_response&hide_border=true" alt="Anurag's github stats" /></a> |
 | ------------- | ------------- |
 
 
@@ -41,7 +41,7 @@
   <ul>
     <br/>
     <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <img align="center" src="https://img.shields.io/badge/Mathematica-red" />  <b> <a href="https://github.com/frandreoli/biblio_convert_bib_to_md">biblio_convert_bib_to_md</a>. </b>A Python script to import some entries from a BibTex (.bib) bibliography and display it in a convenient Markdown (.md) format. A Mathematica notebook is provided as well.</li>
-    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> text_lemma_count. </b> Few Python scripts to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Python notebook is provided, ready to use.</li>
+    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> <a href="https://github.com/frandreoli/text_lemma_count">text_lemma_count</a>. </b> Few Python scripts to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Python notebook is provided, ready to use.</li>
        <li> <b> (BST) <a href="https://github.com/frandreoli/biblio_style_ieeetr_fra">biblio_style_ieeetr_fra</a>. </b> Modified version of the IEEE-Transactions style for BibTeX bibliographies.</li>
     <br/>
   </ul>
