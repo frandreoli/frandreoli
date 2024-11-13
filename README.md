@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&hide_border=true&layout=compact&langs_count=20&cache_seconds=21600&border_radius=4.5" /></a> |  <a href="https://github.com/frandreoli/atoms_optical_response"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frandreoli&repo=atoms_optical_response&hide_border=true&cache_seconds=21600" alt="Anurag's github stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&hide_border=true&layout=compact&langs_count=20&cache_seconds=21600&border_radius=100" /></a> |  <a href="https://github.com/frandreoli/atoms_optical_response"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frandreoli&repo=atoms_optical_response&hide_border=true&cache_seconds=21600" alt="Anurag's github stats" /></a> |
 | ------------- | ------------- |
 
 
