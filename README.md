@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&hide_border=true&layout=compact&langs_count=20&cache_seconds=21600" /></a> |  <a href="https://github.com/frandreoli/atoms_optical_response"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frandreoli&repo=atoms_optical_response&hide_border=true&cache_seconds=21600" alt="Anurag's github stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandreoli&hide_border=true&layout=compact&langs_count=20&cache_seconds=21600&border_radius=4.5" /></a> |  <a href="https://github.com/frandreoli/atoms_optical_response"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frandreoli&repo=atoms_optical_response&hide_border=true&cache_seconds=21600" alt="Anurag's github stats" /></a> |
 | ------------- | ------------- |
 
 
@@ -18,7 +18,7 @@
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/optimization_atoms_metalens">optimization_atoms_metalens</a>. </b>Toolbox of global algorithms to optimize the efficiency of an atomic metalens. </li>    
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" />  <b> optimization_atoms_adjoint. </b>
       Inverse-design of the collective, optical response of an ensemble of atomic emitters, through the optimization of their spatial positions (adjoint methods). </li>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> optimization_atoms_QM. </b> Inverse-design of an atomic-based quantum memory, via the optimization of the atomic positions (particle-swarm algorithm).</li>
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> optimization_atoms_QM. </b> Inverse-design of an efficient, atomic-based quantum memory, via the optimization of the atomic positions (particle-swarm algorithm).</li>
     <br/>
   </ul>
  
