@@ -17,7 +17,7 @@
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/atoms_optical_dephasing">atoms_optical_dephasing</a>. </b>Dephasing dynamics of an atomic spin-wave, due to inter-atomic, optical interactions (using a first-order cumulant expansion).</i> </li>    
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/optimization_atoms_metalens">optimization_atoms_metalens</a>. </b>Toolbox of global algorithms to optimize the efficiency of an atomic metalens. </li>    
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" />  <b> optimization_atoms_adjoint. </b>
-      Optimization of the collective, linear optical response of an ensemble of atomic emitters, through the inverse-design of their spatial positions (adjoint algorithms). </li>
+      Optimization of the collective, optical response of an ensemble of atomic emitters, through the inverse-design of their spatial positions (adjoint methods). </li>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> optimization_atoms_QM. </b>       Optimization of the efficiency of an atomic-based quantum memory, via the inverse-design of the atomic positions (particle-swarm algorithm).</li>
     <br/>
   </ul>
