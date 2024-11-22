@@ -41,7 +41,7 @@
   <ul>
     <br/>
     <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <img align="center" src="https://img.shields.io/badge/Mathematica-red" />  <b> <a href="https://github.com/frandreoli/biblio_convert_bib_to_md">biblio_convert_bib_to_md</a>. </b>A Python script to import some entries from a BibTex (.bib) bibliography and display it in a convenient Markdown (.md) format. A Mathematica notebook is provided as well.</li>
-    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> <a href="https://github.com/frandreoli/text_lemma_count">text_lemma_count</a>. </b> Few Python scripts to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Python notebook is provided, ready to use.</li>
+    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> <a href="https://github.com/frandreoli/text_lemma_count">text_lemma_count</a>. </b> Two Python modules to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Jupyter notebook is provided as well, to use these modules.</li>
        <li> <b> (BST) <a href="https://github.com/frandreoli/biblio_style_ieeetr_fra">biblio_style_ieeetr_fra</a>. </b> Modified version of the IEEE-Transactions style for BibTeX bibliographies.</li>
     <br/>
   </ul>
