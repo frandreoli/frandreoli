@@ -29,7 +29,7 @@
  
   <ul>
     <br/>
-     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> HDF5Multiple. </b>A Julia module to easily save many variables in a HDF5 file (including structures, dictionaries etc.), automatically organizing them into groups.</li>
+     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> HDF5Multiple. </b>A Julia module to easily save many variables in a HDF5 file (including structures, dictionaries etc.), automatically organizing them into groups.</li>
     <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/random_packing_hard_spheres">random_packing_hard_spheres</a>. </b>A grid-based algorithm to uniformly sample the positions of hard (non-overlapping) spheres inside a cuboid.</li>
     <li> <img align="center" src="https://img.shields.io/badge/C-gray" /> <b> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <a href="https://github.com/frandreoli/random_graph_percolation"> random_graph_percolation.</a> </b> A C script to compute the super-cluster phase transition in a random graph with all-to-all connections, with a Python notebook to analyze the data.</li>
     <br/>
