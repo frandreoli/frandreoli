@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary><b>Some interesting stuff</b></summary>
+  <summary><b>Interesting stuff</b></summary>
  
   <ul>
     <br/>
