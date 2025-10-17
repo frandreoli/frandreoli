@@ -8,6 +8,32 @@
 
 <div>
 
+
+<details>
+  <summary><b>Packages</b></summary>
+  <ul>
+    <br/>
+        <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" />  <b> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <a href="https://github.com/frandreoli/HDF5Multiple"> HDF5Multiple</a>. </b> A Julia module to easily save many variables in a HDF5 file (including structures, dictionaries etc.), automatically organizing them into groups.</li>
+    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> <a href="https://github.com/frandreoli/text_lemma_count">text_lemma_count</a>. </b> Two Python modules to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Jupyter notebook is provided as well, ready to use.</li>
+       <li> <b> (BST) <a href="https://github.com/frandreoli/biblio_style_ieeetr_fra">biblio_style_ieeetr_fra</a>. </b> Modified version of the IEEE-Transactions style for BibTeX bibliographies.</li>
+    <br/>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Interesting stuff</b></summary>
+ 
+  <ul>
+    <br/>
+    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/random_packing_hard_spheres">random_packing_hard_spheres</a>. </b>A grid-based algorithm to uniformly sample the positions of hard (non-overlapping) spheres inside a cuboid.</li>
+    <li> <img align="center" src="https://img.shields.io/badge/C-gray" /> <b> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <a href="https://github.com/frandreoli/random_graph_percolation"> random_graph_percolation</a>. </b> A C script to compute the super-cluster phase transition in a random graph with all-to-all connections, with a Python notebook to analyze the data.</li>
+       <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <img align="center" src="https://img.shields.io/badge/Mathematica-red" />  <b> <a href="https://github.com/frandreoli/biblio_convert_bib_to_md">biblio_convert_bib_to_md</a>. </b>A Python script to import some entries from a BibTex (.bib) bibliography and display it in a convenient Markdown (.md) format. A Mathematica notebook is provided as well.</li>
+    <br/>
+  </ul>
+ 
+</details>
+
+
 <details>
   <summary><b>Research projects</b></summary>
  
@@ -24,28 +50,8 @@
  
 </details>
 
-<details>
-  <summary><b>Interesting stuff</b></summary>
- 
-  <ul>
-    <br/>
-    <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" /> <b> <a href="https://github.com/frandreoli/random_packing_hard_spheres">random_packing_hard_spheres</a>. </b>A grid-based algorithm to uniformly sample the positions of hard (non-overlapping) spheres inside a cuboid.</li>
-    <li> <img align="center" src="https://img.shields.io/badge/C-gray" /> <b> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <a href="https://github.com/frandreoli/random_graph_percolation"> random_graph_percolation</a>. </b> A C script to compute the super-cluster phase transition in a random graph with all-to-all connections, with a Python notebook to analyze the data.</li>
-       <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <img align="center" src="https://img.shields.io/badge/Mathematica-red" />  <b> <a href="https://github.com/frandreoli/biblio_convert_bib_to_md">biblio_convert_bib_to_md</a>. </b>A Python script to import some entries from a BibTex (.bib) bibliography and display it in a convenient Markdown (.md) format. A Mathematica notebook is provided as well.</li>
-    <br/>
-  </ul>
- 
-</details>
 
-<details>
-  <summary><b>Packages</b></summary>
-  <ul>
-    <br/>
-        <li> <img align="center" src="https://img.shields.io/badge/Julia-purple" />  <b> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <a href="https://github.com/frandreoli/HDF5Multiple"> HDF5Multiple</a>. </b> A Julia module to easily save many variables in a HDF5 file (including structures, dictionaries etc.), automatically organizing them into groups.</li>
-    <li> <img align="center" src="https://img.shields.io/badge/Python-blue" /> <b> <a href="https://github.com/frandreoli/text_lemma_count">text_lemma_count</a>. </b> Two Python modules to read a text file from a PDF, count the words, lemmatize them and then count the lemmas. A Jupyter notebook is provided as well, ready to use.</li>
-       <li> <b> (BST) <a href="https://github.com/frandreoli/biblio_style_ieeetr_fra">biblio_style_ieeetr_fra</a>. </b> Modified version of the IEEE-Transactions style for BibTeX bibliographies.</li>
-    <br/>
-  </ul>
-</details>
+
+
 
 </div>
